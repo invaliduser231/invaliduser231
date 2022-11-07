@@ -18,3 +18,6 @@ Hello, I'm Invalid. I am a 18 years old developer from germany. While i am not r
 ## Profile Views
 [![](https://visitcount.itsvg.in/api?id=invaliduser231&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
+## Trophys
+![](https://github-profile-trophy.vercel.app/?username=invaliduser231&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
