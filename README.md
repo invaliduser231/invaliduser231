@@ -2,7 +2,7 @@
 
 # ✍️ About me
 
-Hello, I'm Invalid. I am a 18 years old developer from germany. While i am not really experienced with ux design, i developed my skills to make solid backend structures for different use cases (e.g Hospitals). I started a own company in 2022 and got self employed. In case you got any questions, feel free to mail to contact@schnittert.com
+Hello, I'm Rainer. I am a 19 years old developer from germany. While i am not really experienced with ux design, i developed my skills to make solid backend structures for different use cases (e.g Hospitals). I started a own company in 2022 and got self employed. In case you got any questions, feel free to mail to contact@schnittert.com
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=invaliduser231&theme=tokyonight" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=invaliduser231&theme=tokyonight" /> 
 
