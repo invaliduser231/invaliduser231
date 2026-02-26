@@ -83,3 +83,13 @@ They are my playground to try new ideas and technologies in the real world.
 - Franconia based: Fürth & Nuremberg are my home base for work, coffee and side projects.
 
 ---
+
+Stats:
+
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=invaliduser231&theme=tokyonight)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=invaliduser231&theme=tokyonight)
+![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=invaliduser231&theme=tokyonight)
+
+
+
+![https://komarev.com/ghpvc/?username=invaliduser231](https://komarev.com/ghpvc/?username=invaliduser231)
