@@ -14,15 +14,15 @@ Building out Vinto, a self-hosted music bot for Fluxer, and the voice stack arou
 
 ## Public projects
 
-[Vinto-Music](https://github.com/invaliduser231/Vinto-Music) — a self-hosted music bot for Fluxer. Plays from YouTube, SoundCloud, Deezer and radio, mirrors metadata from Spotify and Apple Music, and keeps queues, history and taste data in MongoDB. Ships `/healthz`, `/readyz` and Prometheus metrics, because I actually run it in production. TypeScript, MIT.
+[Vinto-Music](https://github.com/invaliduser231/Vinto-Music) is a self-hosted music bot for Fluxer. It plays from YouTube, SoundCloud, Deezer and radio, mirrors metadata from Spotify and Apple Music, and keeps queues, history and taste data in MongoDB. It ships `/healthz`, `/readyz` and Prometheus metrics, because I actually run it in production. TypeScript, MIT.
 
-[NodeLink](https://github.com/invaliduser231/NodeLink) — a Node.js alternative to LavaLink for voice playback. My fork tracks the audio backend Vinto depends on.
+[NodeLink](https://github.com/invaliduser231/NodeLink), a Node.js alternative to LavaLink for voice playback. My fork tracks the audio backend Vinto depends on.
 
-[Uptimer](https://github.com/invaliduser231/Uptimer) — a small Fluxer bot that tracks how long you have been online.
+[Uptimer](https://github.com/invaliduser231/Uptimer), a small Fluxer bot that tracks how long you have been online.
 
-[awesome-fluxer](https://github.com/invaliduser231/awesome-fluxer) — the community list of Fluxer projects, libraries and tooling.
+[awesome-fluxer](https://github.com/invaliduser231/awesome-fluxer), the community list of Fluxer projects, libraries and tooling.
 
-[crab-rave-timer](https://github.com/invaliduser231/crab-rave-timer) — a tiny Node script that starts Crab Rave so the drop lands exactly at midnight. Yes, really.
+[crab-rave-timer](https://github.com/invaliduser231/crab-rave-timer), a tiny Node script that starts Crab Rave so the drop lands exactly at midnight. Yes, really.
 
 ## Also in progress
 
