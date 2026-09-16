@@ -1,95 +1,53 @@
-[![Header](https://github.com/invaliduser231/invaliduser231/blob/main/banner.gif)](https://invalid-studios.tech/)
+[![Rainer Schnittert](./banner.svg)](https://software-schnittert.com)
 
-<h1 align="center">Hi, I'm Rainer 👋</h1>
-<p align="center">
-Apprentice backend developer @ DATEV (Nuremberg, Germany).  
-I design robust services, typed APIs and deployments that don't wake you up at 3am.
-</p>
+Freelance developer from Fürth, Germany. 👋 I build web software and run the servers it lives on.
 
-<p align="center">
-<b>Living in:</b> Fürth, Bavaria • <b>Keywords:</b> Spring Boot • NestJS • PostgreSQL • CI/CD • Homelab
-</p>
+## About
 
----
+Self-employed since 2022, mostly in JavaScript and TypeScript, with a soft spot for the operations side. I like taking an idea all the way to a running service: writing it, deploying it, then keeping it healthy once real people depend on it. Most of my public code these days orbits Fluxer, a Discord-style platform I write bots and audio infrastructure for.
 
-## ✍️ About me
+Reach me at rainer@schnittert.com, or see the client side of my work at [software-schnittert.com](https://software-schnittert.com).
 
-- Apprentice for application development at DATEV in Nuremberg, Germany.
-- Based in Fürth – right next door to Nuremberg.
-- Backend focused: I enjoy building APIs and services that are easy to reason about and even easier to deploy.  
-- Self‑employed since 2022 – I like to turn ideas into running services, not slide decks.  
-- You can reach me at **[rainer@schnittert.com](mailto:rainer@schnittert.com)**.
+## Currently
 
----
+Building out Vinto, a self-hosted music bot for Fluxer, and the voice stack around it. My homelab (Proxmox, Gitea, Drone CI) is the backbone everything gets deployed onto.
 
-## 🔧 Daily driver stack
+## Public projects
 
-- **Backend:** Java, Spring Boot, NestJS (TypeScript)  
-- **Data & Storage:** PostgreSQL, Redis  
-- **Infra & DevOps:** Docker, Cloud Foundry, Proxmox, Traefik, Drone CI, GitHub Actions  
-- **Frontend (when needed):** Angular, TypeScript  
+[Vinto-Music](https://github.com/invaliduser231/Vinto-Music) — a self-hosted music bot for Fluxer. Plays from YouTube, SoundCloud, Deezer and radio, mirrors metadata from Spotify and Apple Music, and keeps queues, history and taste data in MongoDB. Ships `/healthz`, `/readyz` and Prometheus metrics, because I actually run it in production. TypeScript, MIT.
+
+[NodeLink](https://github.com/invaliduser231/NodeLink) — a Node.js alternative to LavaLink for voice playback. My fork tracks the audio backend Vinto depends on.
+
+[Uptimer](https://github.com/invaliduser231/Uptimer) — a small Fluxer bot that tracks how long you have been online.
+
+[awesome-fluxer](https://github.com/invaliduser231/awesome-fluxer) — the community list of Fluxer projects, libraries and tooling.
+
+[crab-rave-timer](https://github.com/invaliduser231/crab-rave-timer) — a tiny Node script that starts Crab Rave so the drop lands exactly at midnight. Yes, really.
+
+## Also in progress
+
+Cofyndr, a matching platform for founders, investors and talent. Client sites such as Rohr-Helden24 and Genusswerk. A pile of Fluxer tooling (a listing portal, uptime, a Lavalink deployment) that is not public yet, plus the odd C++ project for microcontrollers.
+
+## Stack
 
 <p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge" />
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" />
-  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white&style=flat-square" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square" />
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat-square" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" />
+  <img alt="Java" src="https://img.shields.io/badge/Java%20%2F%20Spring-6DB33F?logo=springboot&logoColor=white&style=flat-square" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
+  <img alt="Proxmox" src="https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white&style=flat-square" />
 </p>
 
----
+Day to day that means TypeScript and Node.js, Next.js or Angular on the front, and PostgreSQL, MongoDB and Redis for data. Java and Spring Boot when a job calls for it, a bit of C++ for microcontrollers. Docker, Terraform, Traefik and Proxmox hold it all together, and I self-host my CI on Gitea and Drone.
 
-## 🧪 What I like to build
+## Stats
 
-- Service‑oriented backends with clear boundaries, strong typing and readable modules.  
-- Authentication and authorization flows that are secure but still understandable.  
-- Tooling around deployment, monitoring and developer experience – I prefer automation over manual steps.  
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=invaliduser231&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=invaliduser231&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=invaliduser231&theme=tokyonight)
 
----
-
-## 🚀 Selected projects
-
-### Vinto – solar sailing gadget
-Solar powered sensor platform for wind and GPS with local storage and exports.  
-Tech: C++ (ESP32), MQTT, local logging, data export for later analysis.
-
-### Cofyndr – platform for startups, investors & talent
-Multi‑tenant platform with payments, profiles and matching.  
-Tech: NestJS, PostgreSQL, Stripe, Docker, GitHub Actions, Cloud Foundry.
-
-### Schnittert Cloud – my homelab
-Proxmox cluster with pfSense, Pangolin, Gitea and Drone CI for my side projects.  
-Focus: reproducible infra‑as‑code, self‑hosted CI pipelines and automated backups.
-
-### Side projects: PixShare, Droply, Excluify, Sniplyx
-Small services around file sharing, privacy and short links.  
-They are my playground to try new ideas and technologies in the real world.
-
----
-
-## ⏱ What I'm doing now
-
-- Improving Spring Boot and NestJS boilerplates for faster, cleaner service setups.  
-- Experimenting with self‑hosted CI and monitoring on my homelab.  
-- Learning more about clean architecture and modular monoliths in TypeScript backends.  
-
----
-
-## 🎯 Beyond code
-
-- I like building things that run on their own – from sailing gadgets to home servers.  
-- I enjoy turning vague ideas into something you can actually click, curl or ssh into.  
-- Franconia based: Fürth & Nuremberg are my home base for work, coffee and side projects.
-
----
-
-Stats:
-
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=invaliduser231&theme=tokyonight)
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=invaliduser231&theme=tokyonight)
-![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=invaliduser231&theme=tokyonight)
-
-
-
-![https://komarev.com/ghpvc/?username=invaliduser231](https://komarev.com/ghpvc/?username=invaliduser231)
+![Profile views](https://komarev.com/ghpvc/?username=invaliduser231&color=7aa2f7&style=flat-square)
