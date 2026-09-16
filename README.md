@@ -12,13 +12,11 @@ Reach me at rainer@schnittert.com, or see the client side of my work at [softwar
 
 [Vinto-Music](https://github.com/invaliduser231/Vinto-Music) is a self-hosted music bot for Fluxer. It plays from YouTube, SoundCloud, Deezer and radio, mirrors metadata from Spotify and Apple Music, and keeps queues, history and taste data in MongoDB. TypeScript.
 
-Portlyn, an open-source reverse proxy written in Go.
+[Portlyn](https://github.com/Portlyn/Portlyn), a self-hosted reverse proxy and zero-trust control plane in Go and Next.js. Routing, access control, auth, certificates and observability in one stack.
 
-fluxer.name, a customizable profile page service for Fluxer, in the spirit of guns.lol.
+[fluxer.name](https://fluxer.name), a customizable profile page service for Fluxer, in the spirit of guns.lol.
 
 Cofyndr, a matching platform for founders, investors and talent. Still in development.
-
-[Rohr-Helden24](https://rohr-helden24.de) and Genusswerk, two client sites I built and now maintain.
 
 ## Stack
 
